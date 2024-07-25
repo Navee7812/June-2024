@@ -1,5 +1,5 @@
 Main()
 {
-     p.s.v.m(print)
+     p.s.v.m(print"statement")
 }
 
